@@ -1,7 +1,7 @@
 ### Introduction
 This repo contains the following:
 * A simple NFT demo site used to create a transaction on crypto card - under `nft` folder. 
-* Polygon Point of Sale (PoS) Android app to allow registered merchant to use this app to accept payments via our crypto card - under `android_pos` folder.
+* Avalanche Point of Sale (PoS) Android app to allow registered merchant to use this app to accept payments via our crypto card - under `android_pos` folder.
 
 NOTE: The demo above only supports MetaMask wallet for now.
 
@@ -10,8 +10,8 @@ This demo supports the MetaMask wallet Chrome extension.
 
 For this demo purpose, we allow any wallet address to transact although in the actual system, only approved cardholders' wallets are accepted.
 
-### Polygon Point of Sale (POS) Android App
-This demo supports the Phantom wallet mobile app.
+### Avalanche Point of Sale (POS) Android App
+This demo supports the MetaMask wallet mobile app.
 
 You may install the `Merchant.apk` file under `android_pos` folder on your Android phone (for Android version 4.5 and above). After installation, you'd need to enter your merchant details. But you'd need to sign up as a merchant before being able to use this app. But since this is a just a demo, the merchant signing-up process is not yet available. So, you may use the sample settings below:
 *   Merchant name: MyPizza
